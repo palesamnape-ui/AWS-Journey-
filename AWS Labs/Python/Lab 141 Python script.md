@@ -20,14 +20,21 @@ The lab required me to execute the following tasks on a remote Linux server:
 ### Step 1: Environment Launch & Reconnaissance
 I began by launching the provided AWS lab environment. Once the status showed "Ready," an EC2 instance named "Linux Host" was provisioned for me. I navigated to the Lab Details panel to retrieve the crucial Public IP address needed for connection.
  
-> **[IMAGE PLACEHOLDER: lab_details_panel.png - Insert screenshot of the AWS Lab Details panel showing the IP address here]**
+
 *(Figure 1: Gathering the connection details for the Linux Host.)*
+
+<img width="1156" height="554" alt="image" src="https://github.com/user-attachments/assets/78d50910-b0e1-4f18-9809-afc019ba52b4" />
+
  
 ### Step 2: Establishing a Secure Connection (SSH)
 Using the credentials provided by the lab platform, I established a secure connection to the remote EC2 instance. I ensured the private key permissions were set correctly for security before initiating the SSH handshake from my local terminal.
  
-> **[IMAGE PLACEHOLDER: ssh_terminal_connection.png - Insert screenshot of your terminal or PuTTY showing the successful connection to the EC2-user here]**
+
+
 *(Figure 2: Successfully logged into the remote Linux EC2 instance.)*
+
+<img width="491" height="462" alt="image" src="https://github.com/user-attachments/assets/05dfbd1f-86b8-4267-97a8-d093a45e3ebb" />
+
  
 ### Step 3: Developing the Python Solution
 Once inside the Linux host, I used a terminal-based text editor to develop the solution. I chose **Python 3** for this task.
