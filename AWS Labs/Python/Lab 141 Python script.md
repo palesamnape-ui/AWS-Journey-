@@ -44,15 +44,22 @@ My script included logic to:
 * Implement a nested loop to check for divisibility (determining primality).
 * Use file handling context managers (`with open(...)`) to safely write the identified prime numbers into a new file named `results.txt`.
  
-> **[IMAGE PLACEHOLDER: python_script_code.png - Insert screenshot of your code editor (like nano or vim) showing the final Python script here]**
 *(Figure 3: The completed Python script ready for execution.)*
+
+<img width="852" height="425" alt="image" src="https://github.com/user-attachments/assets/a540574b-ed7d-46d9-a1b8-f360c996343f" />
+
  
 ### Step 4: Execution and Verification
 Finally, I ran the script using the `python3` command. To confirm the lab objectives were met, I inspected the contents of the newly created `results.txt` file using the Linux `cat` command. The file contained the correct sequence of prime numbers, verifying the script's success.
- 
-> **[IMAGE PLACEHOLDER: results_file_verification.png - Insert screenshot showing the terminal output after running the script and using 'cat results.txt' to view the output]**
+
+
 *(Figure 4: Verification of the generated output file.)*
- 
+
+<img width="855" height="447" alt="image" src="https://github.com/user-attachments/assets/653b0df0-fa12-4067-8ce9-fdff0262398a" />
+
+Text results
+ <img width="837" height="417" alt="image" src="https://github.com/user-attachments/assets/994393fa-f7f6-4ef3-8eaf-1c5a39eb2bc9" />
+
 ---
  
 ## 💡 Key Takeaways
