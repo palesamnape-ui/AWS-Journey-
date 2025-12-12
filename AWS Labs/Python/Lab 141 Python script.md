@@ -1,13 +1,13 @@
 # AWS Challenge Lab: Python Prime Number Generator
  
-## 👋 Overview
+##  Overview
 Welcome to my project repository! This repo documents my successful completion of an AWS Challenge Lab focused on Python scripting within a cloud environment.
  
 In this exercise, I worked with a live **Amazon EC2 Linux instance** to develop automation scripts and manage remote file systems. Below is a walkthrough of the tasks I completed and how I approached the challenge.
  
 ---
  
-## 📋 The Challenge Objectives
+##  The Challenge Objectives
 The lab required me to execute the following tasks on a remote Linux server:
 1.  Write a Python script to calculate all prime numbers between 1 and 250.
 2.  Automate the storage of these results into a text file named `results.txt`.
@@ -62,7 +62,7 @@ Text results
 
 ---
  
-## 💡 Key Takeaways
+##  Key Takeaways
 Completing this challenge lab reinforced several vital skills:
 * **Remote Development:** I gained confidence in writing and editing code directly on a remote server without a graphical interface.
 * **AWS Navigation:** I became more comfortable managing running EC2 instances and handling connection details.
