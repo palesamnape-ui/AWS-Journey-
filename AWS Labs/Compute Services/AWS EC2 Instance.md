@@ -8,9 +8,9 @@ Through a guided, real-world scenario, I worked with a live EC2 instance to unde
 
 *(Figure 1: High-level architectural diagram of the EC2 web server deployment.)*
 
-> **[Insert architecture diagram screenshot here]**
+<img width="1183" height="589" alt="ec2 1 1" src="https://github.com/user-attachments/assets/50036a5e-792f-490b-88e6-2f1720acb343" />
 
----
+
 
 ## The Challenge Objectives
 
@@ -45,7 +45,12 @@ I also configured **User Data** to automatically install and start an Apache web
 
 *(Figure 2: EC2 instance launch configuration and user data script.)*
 
-> **[Insert EC2 launch configuration screenshot here]**
+<img width="1318" height="671" alt="ec2 2" src="https://github.com/user-attachments/assets/4d6598dc-6b58-43e3-a0ea-8ff2f68d10fb" />
+
+
+<img width="1273" height="542" alt="ec2 succes" src="https://github.com/user-attachments/assets/3ce229cb-6a8c-4e07-9468-6341ad3cfb7d" />
+
+
 
 After launching, I verified that the instance reached a **Running** state and passed both system and instance status checks.
 
@@ -63,7 +68,9 @@ I reviewed:
 
 *(Figure 3: EC2 status checks and CloudWatch monitoring metrics.)*
 
-> **[Insert monitoring and status checks screenshot here]**
+<img width="1359" height="618" alt="ec2 sucess2" src="https://github.com/user-attachments/assets/b997a1d3-07ea-487c-ae25-fbe7ab6212f5" />
+
+
 
 This step reinforced the importance of proactive monitoring to maintain availability and reliability.
 
