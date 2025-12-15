@@ -160,6 +160,8 @@ Completed specialized training focused on:
 ![AI Practitioner Learning Plan Badge](path/to/ai-practitioner-badge.png)
 
 ### AI Practitioner Learning Plan
+<img width="1142" height="613" alt="image" src="https://github.com/user-attachments/assets/67b25052-a222-47ba-8dd4-c6dc2b5ec715" />
+
 
 **Issued**: [Date]  
 **Credential ID**: [Your Credential ID]
