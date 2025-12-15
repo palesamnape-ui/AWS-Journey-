@@ -12,7 +12,7 @@ Each certification represents hands-on experience, rigorous study, and practical
 
 ![AWS Cloud Practitioner Badge](path/to/cloud-practitioner-badge.png)
 
-**Issued**: [Date]  
+**Issued**: 20205/12/04 
 **Credential ID**: [Your Credential ID]  
 **Verification**: [Verification Link]
 
@@ -27,11 +27,12 @@ This foundational certification validates my overall understanding of the AWS Cl
 
 ## Security
 
-![Security Badge](path/to/security-badge.png)
+<img width="968" height="603" alt="image" src="https://github.com/user-attachments/assets/cae6aa1d-f43c-4522-82de-f9d3e890f1ae" />
+
 
 ### AWS Security Fundamentals
 
-**Issued**: [Date]  
+**Issued**: 2025/12/04 
 **Credential ID**: [Your Credential ID]
 
 Demonstrates proficiency in:
@@ -49,11 +50,12 @@ Demonstrates proficiency in:
 
 ## Database
 
-![Database Badge](path/to/database-badge.png)
+<img width="1003" height="611" alt="image" src="https://github.com/user-attachments/assets/8efbc703-6aa6-4f11-94e5-cf7ec25b1375" />
+
 
 ### AWS Database Services
 
-**Issued**: [Date]  
+**Issued**: 2025/12/04  
 **Credential ID**: [Your Credential ID]
 
 Validates knowledge and skills in:
@@ -71,11 +73,12 @@ Validates knowledge and skills in:
 
 ## Networking
 
-![Networking Badge](path/to/networking-badge.png)
+<img width="1017" height="602" alt="image" src="https://github.com/user-attachments/assets/29a524b1-a658-4d0e-99f4-bdd5151f9dc0" />
+
 
 ### AWS Networking Fundamentals
 
-**Issued**: [Date]  
+**Issued**: 2025/12/04 
 **Credential ID**: [Your Credential ID]
 
 Certifies understanding of:
