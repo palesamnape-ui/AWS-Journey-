@@ -73,6 +73,8 @@ I reviewed:
 
 
 This step reinforced the importance of proactive monitoring to maintain availability and reliability.
+<img width="1030" height="603" alt="ec2scrnshot" src="https://github.com/user-attachments/assets/4ff4aa8a-9ef9-4409-8edb-d930d326b052" />
+
 
 ---
 
@@ -91,8 +93,8 @@ After saving the rule and refreshing the browser, the web page displayed the exp
 **“Hello From Your Web Server!”**
 
 *(Figure 4: Successful access to the web server after updating security group rules.)*
+<img width="1364" height="630" alt="ec2resultHello" src="https://github.com/user-attachments/assets/dc9a34c2-0454-463c-b55e-540857f34383" />
 
-<img width="835" height="408" alt="image" src="https://github.com/user-attachments/assets/be614289-7a11-4871-b313-165fe1448fda" />
 
 
 This task clearly demonstrated how security groups function as virtual firewalls in AWS.
@@ -114,8 +116,8 @@ Next, I modified the attached EBS root volume:
 Once the changes were applied, I restarted the instance and confirmed that it was running with the updated resources.
 
 *(Figure 5: Instance type and EBS volume modification.)*
+<img width="1051" height="439" alt="image" src="https://github.com/user-attachments/assets/b91d9a6c-4cf5-468b-8e86-20c57f9135d9" />
 
-> **[Insert instance resize and volume modification screenshot here]**
 
 ---
 
@@ -132,9 +134,12 @@ This confirmed my understanding of how termination protection helps prevent acci
 
 *(Figure 6: Termination protection test and successful instance termination.)*
 
-> **[Insert termination protection error and termination screenshot here]**
+<img width="1054" height="449" alt="image" src="https://github.com/user-attachments/assets/f712c31f-2f84-43d9-8063-f253d2dd0d10" />
+
 
 ---
+<img width="1331" height="658" alt="ec2monitorscrnshot" src="https://github.com/user-attachments/assets/da542b5a-eaeb-4b44-a245-aa4b00e36f0c" />
+
 
 ## Key Takeaways
 
