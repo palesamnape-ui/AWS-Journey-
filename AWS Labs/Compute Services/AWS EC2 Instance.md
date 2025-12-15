@@ -92,7 +92,8 @@ After saving the rule and refreshing the browser, the web page displayed the exp
 
 *(Figure 4: Successful access to the web server after updating security group rules.)*
 
-> **[Insert web server browser output screenshot here]**
+<img width="835" height="408" alt="image" src="https://github.com/user-attachments/assets/be614289-7a11-4871-b313-165fe1448fda" />
+
 
 This task clearly demonstrated how security groups function as virtual firewalls in AWS.
 
