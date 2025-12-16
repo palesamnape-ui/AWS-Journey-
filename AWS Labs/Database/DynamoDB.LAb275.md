@@ -1,6 +1,7 @@
 # AWS Challenge Lab: Amazon DynamoDB Music Library
-![AWS Lab Banner](./images/aws-banner.png)
-<!-- Upload your banner image to: repository_root/images/aws-banner.png -->
+
+<img width="253" height="178" alt="image" src="https://github.com/user-attachments/assets/c9905cc3-fa04-4952-80bc-effcf0b8784a" />
+
 
 ## Hey! Welcome to My AWS Lab Journey 👋
 
@@ -27,17 +28,16 @@ First thing I did was fire up the AWS lab environment. Once everything showed "R
 
 **Figure 1: Lab environment ready and AWS Console access confirmed**
 
-![Lab Details Screenshot](./images/lab-details.png)
-<!-- Upload to: repository_root/images/lab-details.png -->
+<img width="1345" height="499" alt="image" src="https://github.com/user-attachments/assets/7a9f6696-cf64-4ce8-8db7-1d4b930e2a0f" />
+
 
 ### Building the Foundation: Creating the DynamoDB Table
 
 I navigated to the DynamoDB service and created a new table called "Music." The key design decision here was choosing the right primary key structure—I went with a composite key using `Artist` as the partition key and `Song` as the sort key. This combination would uniquely identify each track in the library.
 
 **Figure 2: Configuring the Music table with partition and sort keys**
+<img width="1337" height="485" alt="image" src="https://github.com/user-attachments/assets/e78533e3-734b-4896-9e94-7446f91c7233" />
 
-![Table Creation Screenshot](./images/table-creation.png)
-<!-- Upload to: repository_root/images/table-creation.png -->
 
 ### The Fun Part: Adding Data with Flexible Schemas
 
@@ -53,22 +53,24 @@ Nothing fancy, just solid NoSQL principles in action.
 
 **Figure 3: First item created with core attributes**
 
-![First Item Screenshot](./images/first-item.png)
-<!-- Upload to: repository_root/images/first-item.png -->
 
-**Figure 4: Additional items showing schema flexibility**
 
-![Multiple Items Screenshot](./images/multiple-items.png)
-<!-- Upload to: repository_root/images/multiple-items.png -->
+The First Created Item.
+<img width="943" height="226" alt="image" src="https://github.com/user-attachments/assets/99cef2f8-f436-4e7c-81f0-15bb2c1af114" />
+
 
 ### Course Correction: Modifying an Existing Item
 
 I caught an error in my data—Psy's "Gangnam Style" was listed as 2011, but it was actually released in 2012. I navigated to the item through the Explore Items interface and updated the Year attribute. Simple fix, but it showed how straightforward data updates are in DynamoDB.
 
 **Figure 5: Editing the item to correct the year**
+<img width="924" height="365" alt="image" src="https://github.com/user-attachments/assets/17c82409-6ab5-4354-a033-f10811979003" />
 
-![Item Modification Screenshot](./images/item-modification.png)
-<!-- Upload to: repository_root/images/item-modification.png -->
+AND
+<img width="968" height="369" alt="image" src="https://github.com/user-attachments/assets/b15b3aec-80e8-4421-828a-535afb7bd45c" />
+
+
+
 
 ### The Moment of Truth: Querying and Scanning
 
@@ -76,13 +78,13 @@ I tested both query methods DynamoDB offers. First, I ran a query operation usin
 
 **Figure 6: Query operation showing efficient retrieval**
 
-![Query Results Screenshot](./images/query-results.png)
-<!-- Upload to: repository_root/images/query-results.png -->
+<img width="992" height="384" alt="image" src="https://github.com/user-attachments/assets/8d0ba14c-74c1-4d41-bbd8-8213aa9773ff" />
+
 
 **Figure 7: Scan operation with filter applied**
 
-![Scan Results Screenshot](./images/scan-results.png)
-<!-- Upload to: repository_root/images/scan-results.png -->
+<img width="930" height="397" alt="image" src="https://github.com/user-attachments/assets/a62c2bc4-0ecf-477e-8f8a-ea4a9e2389a1" />
+
 
 ### Cleanup: Deleting the Table
 
@@ -90,8 +92,7 @@ Finally, I deleted the Music table to avoid any unnecessary charges. DynamoDB ma
 
 **Figure 8: Table deletion confirmation**
 
-![Table Deletion Screenshot](./images/table-deletion.png)
-<!-- Upload to: repository_root/images/table-deletion.png -->
+<img width="923" height="166" alt="image" src="https://github.com/user-attachments/assets/57475394-965d-4249-ad23-46e59a5be4f5" />
 
 ---
 
