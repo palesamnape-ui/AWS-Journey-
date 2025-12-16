@@ -83,8 +83,7 @@ The instance took about 10 minutes to provision. I monitored its status using `a
 
 **Figure 6: RDS instance status showing "available"**
 
-![RDS Available Screenshot](./images/rds-available.png)
-<!-- Upload to: repository_root/images/rds-available.png -->
+<img width="900" height="147" alt="image" src="https://github.com/user-attachments/assets/8d95c296-14bd-48cb-b91b-52a1c295def3" />
 
 ### The Critical Part: Database Migration
 
@@ -94,13 +93,15 @@ Then I restored the backup to the RDS instance using the `mysql` command, pointi
 
 **Figure 7: mysqldump backup creation and restoration to RDS**
 
-![Database Migration Screenshot](./images/database-migration.png)
-<!-- Upload to: repository_root/images/database-migration.png -->
+<img width="556" height="202" alt="image" src="https://github.com/user-attachments/assets/8781c1e6-0ed8-4176-9f89-00ae34627ecb" />
+
+AND
+<img width="850" height="123" alt="image" src="https://github.com/user-attachments/assets/af5c21b5-4129-426b-ab37-0f54c73964d9" />
 
 **Figure 8: Verification query showing migrated data**
 
-![Migration Verification Screenshot](./images/migration-verification.png)
-<!-- Upload to: repository_root/images/migration-verification.png -->
+<img width="932" height="154" alt="image" src="https://github.com/user-attachments/assets/9597d3d7-d9f6-479d-a946-701b1cd93155" />
+
 
 ### The Switchover: Reconfiguring the Application
 
@@ -108,8 +109,8 @@ Rather than hardcoding database connections (bad practice), the café applicatio
 
 **Figure 9: Parameter Store update with new RDS endpoint**
 
-![Parameter Store Screenshot](./images/parameter-store-update.png)
-<!-- Upload to: repository_root/images/parameter-store-update.png -->
+<img width="616" height="390" alt="image" src="https://github.com/user-attachments/assets/c2990c31-29fc-463d-bd6d-633de2ed1405" />
+
 
 ### The Moment of Truth: Testing and Verification
 
@@ -117,8 +118,11 @@ I accessed the café website and navigated to the Order History page. All my ori
 
 **Figure 10: Café website working with RDS database**
 
-![Website Working Screenshot](./images/website-working.png)
-<!-- Upload to: repository_root/images/website-working.png -->
+<img width="931" height="145" alt="image" src="https://github.com/user-attachments/assets/9b5fab95-d340-4251-8f64-aff61825832f" />
+
+AND
+<img width="921" height="363" alt="image" src="https://github.com/user-attachments/assets/514d5d11-0afb-4162-8cb2-f47b69f3ebe5" />
+
 
 ### Monitoring: CloudWatch Metrics in Action
 
@@ -126,8 +130,7 @@ Finally, I explored the monitoring capabilities. I opened an interactive MySQL s
 
 **Figure 11: CloudWatch metrics showing database connections**
 
-![CloudWatch Monitoring Screenshot](./images/cloudwatch-monitoring.png)
-<!-- Upload to: repository_root/images/cloudwatch-monitoring.png -->
+<img width="930" height="391" alt="image" src="https://github.com/user-attachments/assets/600d1b21-c5f2-438c-a0c9-e0fadfe357da" />
 
 ---
 
