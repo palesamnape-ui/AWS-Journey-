@@ -97,7 +97,6 @@ Certifies understanding of:
 
 ## Storage
 
-![Storage Badge](path/to/storage-badge.png)
 
 ### AWS Storage Services
 <img width="1002" height="592" alt="image" src="https://github.com/user-attachments/assets/e3ddb534-26c7-4ddf-bdc2-9f161054e0eb" />
@@ -140,11 +139,11 @@ Successfully completed 12-week intensive cloud computing training program coveri
 
 ### Generative AI Training
 
-![Generative AI for Decision Makers Badge](path/to/genai-decision-makers-badge.png)
+<img width="1132" height="592" alt="image" src="https://github.com/user-attachments/assets/e075751a-fc38-41ec-a37f-3b320ba7d23e" />
 
 ### Generative AI for Decision Makers
 
-**Issued**: [Date]  
+**Issued**: 2025/10/01 
 **Credential ID**: [Your Credential ID]
 
 Completed specialized training focused on:
