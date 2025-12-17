@@ -100,8 +100,10 @@ Certifies understanding of:
 ![Storage Badge](path/to/storage-badge.png)
 
 ### AWS Storage Services
+<img width="1002" height="592" alt="image" src="https://github.com/user-attachments/assets/e3ddb534-26c7-4ddf-bdc2-9f161054e0eb" />
 
-**Issued**: [Date]  
+
+**Issued**: 2025/12/16 
 **Credential ID**: [Your Credential ID]
 
 Demonstrates expertise in:
@@ -180,6 +182,9 @@ Comprehensive learning path covering:
 ---
 
 ### Continuous Learning
+
+<img width="247" height="257" alt="image" src="https://github.com/user-attachments/assets/806e8a13-a73e-43be-a24a-7f3270da5ef6" />
+
 
 ![Additional Badge 1](path/to/additional-badge-1.png)
 ![Additional Badge 2](path/to/additional-badge-2.png)
